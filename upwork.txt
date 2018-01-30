@@ -1,0 +1,70 @@
+upwork signup experience
+
+New user enters Fname, Lname and email then click next
+
+on the next screen, the user is prompted choose password and then indicate whether is a hire manager or a 
+freelancer
+After choosing hire manager, the user is then lead to basic interview page where the user will have to answer 2 questions:
+1. numer of employees in the company which include none -its just me
+2. The department of the hire manager. This include the following:
+Customer service or operations
+Finance or Legal
+Engineering or product management
+Market or sales
+Human resource
+Other
+
+3. What best describes your role at your company?
+	Student or Intern
+Individual Contributor or Developer
+Sole Proprietor or Self-employed
+Manager or Director
+Vice-President or above
+
+Then click start hiring button
+
+then the user is taken to employers page with this key information on the landing page:
+Welcome to upwork username
+What kind of project do you have?
+1. ongoing project
+2.One time project
+3. I am not sure
+
+How many freelancers do you need to hire?
+I only need one
+I need more than one
+
+The option above has preset defaults just incase the user choose nothing. 
+
+Then the user click continue to post job and lands to post a job page
+
+1. Choose job category and subcategory
+2. Name job posting
+3. Describe work to be done
+4.Add attachments if any
+5. Options to change the type of job - (One time, ongoing, not sure), what best describe your job? -
+		fix a bug, install/integrate a software,develop website from scratch, create a landing page, other
+		-How many freelancers do you need to hire for this job? (one, more than one)
+-Where are you in the lifecycle of this project? -I have designs, I have specifications, N/A, I have an idea
+-Are you experienced hiring for this type of work? (Yes,No)
+Which are the two most important programming languages the freelancer should know? (optional)
+Which software frameworks do you prefer to use? (optional)
+Enter skills needed
+How would you like to pay? (per hr, fixed price)
+Desired Experience Level (entry level -> <20, intermediate -> 20-40, expert >40
+How long do you expect this job to last?
+What time commitment is required for this job? -30hrs/week, less 30hrs/week, I dont know
+
+
+Do you want freelancers to find and apply to your job?
+Freelancers using Upwork.com and public search engines can find this job.
+Only Upwork users can find this job.
+Only freelancers I have invited can find this job.
+Add a few questions you'd like your candidates to answer when applying to your job.
+
+Cover Letter
+Ask applicants to write a cover letter introducing themselves.
+
+Yes, require a cover lette
+
+
